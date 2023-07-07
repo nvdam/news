@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 20,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Adam Shaw",
+      "title": "Trump warns about ousting Putin in Russia, says successor could be 'far worse'",
+      "description": "Former President Donald Trump said on Saturday that any potential successor to Russian President Vladimir Putin could be \"far worse\" than the controversial incumbent.",
+      "url": "https://www.foxnews.com/politics/trump-warns-ousting-putin-russia-says-successor-could-far-worse",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/GettyImages-1202252353.jpg",
+      "publishedAt": "2023-06-24T19:27:46Z",
+      "content": "Former President Donald Trump on Saturday warned against the possible ouster of Russian President Vladimir Putin, saying that the successor to the Russian strongman could be \"far worse.\"\r\n\"A big mess… [+2783 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "",
+      "title": "Opinion: Why a Navajo leader’s conviction gives prosecutors a road map to take on Trump | CNN",
+      "description": "Former President Donald Trump faces a powerful precedent for federal prosecution over the January 6, 2021, insurrection at the US Capitol, in the form of Navajo leader Peter MacDonald’s conviction for conspiracy, writes Ken Ballen.",
+      "url": "https://www.cnn.com/2023/06/24/opinions/trump-investigation-jan-6-macdonald-navajo-conviction-ballen/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230623130605-trump-macdonald-1117.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-06-24T16:34:36.124Z",
+      "content": "Editors Note: Ken Ballen has spent more than three decades as a federal prosecutor, counsel to three congressional investigations and president of a nonprofit organization countering extremism. The v… [+5369 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Mehdi Hasan",
+      "title": "5 ways Democrats should talk about Donald Trump's federal charges",
+      "description": "The federal case against Donald Trump isn't about documents as much as it is about national security, and Democrats need to emphasize that, says Mehdi Hasan.",
+      "url": "https://www.msnbc.com/the-mehdi-hasan-show/the-mehdi-hasan-show/5-ways-democrats-talk-donald-trumps-federal-charges-rcna90823",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230613-donald-trump-ew-451p-d74f36.jpg",
+      "publishedAt": "2023-06-24T10:00:00Z",
+      "content": "So, America has arraigned a former president on federal criminal charges for allegedly leaving the White House with state secrets, keeping them at his resort home and refusing to return them. Its new… [+5956 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "DAVID KLEPPER",
+      "title": "Analysis: Donald Trump's war on truth confronts another test with voters",
+      "description": "The cherry tree folklore is too good to be true, but it's no lie that George Washington had a thing for the truth. A few decades later, another future president's reputation for veracity earned him a well known nickname: Honest Abe Lincoln. Then there's Donal…",
+      "url": "https://apnews.com/c9cbbb9363e907257d54a6c20e2aa29d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/68181f84076c4c579eff6f08680ded07/3000.jpeg",
+      "publishedAt": "2023-06-24T04:06:16Z",
+      "content": "WASHINGTON (AP) — The cherry tree folklore is too good to be true, but it's no lie that George Washington had a thing for the truth. “I hold the maxim no less applicable to public than to private aff… [+7273 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Lucien Bruggeman",
+      "title": "Hunter Biden's alleged WhatsApp message fuels GOP assertions of corruption, even after plea",
+      "description": "His plea deal with a Trump-appointed prosecutor has animated GOP claims.",
+      "url": "https://abcnews.go.com/US/hunter-biden-whatsapp-message-fuels-gop-assertions-corruption/story?id=100338044",
+      "urlToImage": "https://s.abcnews.com/images/US/hunter-biden-rt-jt-230623_1687536710920_hpMain_16x9_992.jpg",
+      "publishedAt": "2023-06-23T21:00:00Z",
+      "content": "The Justice Department's five-year probe into Hunter Biden lurched toward a conclusion this week with the announcement of a plea deal that will likely allow President Joe Biden's 53-year-old son to a… [+9245 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "",
+      "title": "Chris Christie booed while criticizing Trump - Video | CNN Politics",
+      "description": "Republican presidential candidate Chris Christie criticized rival candidate Donald Trump at a Faith and Freedom Coalition event, but some people in the crowd booed him.",
+      "url": "https://www.cnn.com/videos/politics/2023/06/23/chris-christie-booed-trump-video-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230623130342-chris-christie-booed.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-06-23T18:34:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-huffington-post",
+        "name": "The Huffington Post"
+      },
+      "author": "Jennifer Bendery, Igor Bobic",
+      "title": "Chris Christie Booed After Criticizing Donald Trump At Conservative Event",
+      "description": "\"He's unwilling to take responsibility for any of the mistakes that were made,” the former New Jersey governor said of his 2024 rival.",
+      "url": "https://www.huffpost.com/entry/donald-trump-chris-christie-2024_n_6495c4bae4b095a2925d285a",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6495c84a2600005900b357aa.jpeg?cache=BfXznDQH5s&ops=1200_630",
+      "publishedAt": "2023-06-23T17:32:10Z",
+      "content": "WASHINGTON Former New Jersey Gov. Chris Christie (R) received a frosty reception Friday at a conservative confab after he criticized former President Donald Trump, one of his rivals in the 2024 White… [+3393 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "Trump: U.S. ‘might as well’ default on debt",
+      "description": null,
+      "url": "https://www.politico.com/video/2023/05/10/trump-u-s-might-as-well-default-on-debt-910431",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/9fc34d48-73db-4ffd-abf1-82ab1bf9c73f/0a0f44e9-8da6-4d6e-b605-ebc212d761b7/1280x720/match/image.jpg",
+      "publishedAt": "2023-05-11T01:12:42+00:00",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Emma Hurt",
+      "title": "Atlanta DA to announce charging decision in Trump election probe this summer",
+      "description": "The DA revealed the news to the local sheriff to warn him for the need of more security.",
+      "url": "https://www.axios.com/2023/04/24/trump-georgia-election-probe-charges-fani-willis",
+      "urlToImage": "https://images.axios.com/n--fGGo5cT_FhKm3SDM6FZ7SyaE=/1366x768/smart/2023/04/24/1682369997771.jpg",
+      "publishedAt": "2023-04-24T21:19:51Z",
+      "content": "Fulton County District Attorney Fani Willis plans to announce her charging decisions in the wide-ranging investigation into efforts to overturn Georgia's 2020 election results between July 11 and Sep… [+957 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Aila Slisco",
+      "title": "Trump Alleges Plot Against Him to 'Take Down the Leading Candidate'",
+      "description": "Following a report of an impending criminal indictment in New York, Trump said that prosecutors were \"trying to take down the leading candidate\" for 2024.",
+      "url": "https://www.newsweek.com/trump-alleges-plot-against-him-take-down-leading-candidate-1786806",
+      "urlToImage": "https://d.newsweek.com/en/full/2206963/donald-trump-indictment-plot-theory-2024-election.jpg",
+      "publishedAt": "2023-03-10T05:39:13Z",
+      "content": "Former President Donald Trump is lashing out and claiming to be the victim of a \"weaponized justice system\" following a report that he may soon be facing a criminal indictment in New York.\r\nThe New Y… [+3534 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Lawrence Martin",
+      "title": "Liz Cheney is making headway in slaying the Trump dragon",
+      "description": "By spearheading congressional hearings into the Jan. 6 attack on the Capitol, the representative is fast becoming an American heroine",
+      "url": "https://www.theglobeandmail.com/opinion/article-liz-cheney-is-making-headway-in-slaying-the-trump-dragon/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/wCgPPEAVIFE4MLAb_xauhJzJqLI=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/YT6S7Z443RL23MYNL4VZY4WXRQ.jpg",
+      "publishedAt": "2022-06-15T19:24:08Z",
+      "content": "Vice Chair Liz Cheney, Rep. Adam Schiff, and Rep. Adam Kinzinger, stand together during a break as the House select committee investigating the Jan. 6 attack on the U.S. Capitol holds its first publi… [+4635 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Eamon Barrett",
+      "title": "A new report shows how badly the Trump administration slashed the U.S.’s climate credentials",
+      "description": "The ranking from Yale University says decisions made by the Trump administration slashed the country's climate credentials",
+      "url": "https://fortune.com/2022/06/01/trump-us-climate-action-paris-accord-methane-yale-environmental-performance-index/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1342340441-e1654072113634.jpg?resize=1200,600",
+      "publishedAt": "2022-06-01T10:31:29Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Rachel Frazin",
+      "title": "Supreme Court halts ruling against Trump Clean Water Act rollback in 5-4 decision",
+      "description": "The Supreme Court has halted a prior court ruling that struck down a Trump-era rule that limited state and tribal authority to veto projects that could impact their waters, including pipelines.  The Trump rule in question, which was nixed by a federal court i…",
+      "url": "https://thehill.com/policy/equilibrium-sustainability/3260315-supreme-court-halts-ruling-against-trump-clean-water-act-rollback-in-5-4-decision/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2021/09/newsletter-supremecourt_090221getty.jpg?w=1280",
+      "publishedAt": "2022-04-06T14:18:04Z",
+      "content": "The Supreme Court has halted a prior court ruling that struck down a Trump-era rule that limited state and tribal authority to veto projects that could impact their waters, including pipelines. \r\nThe… [+1936 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Jordain Carney, Peter Sullivan",
+      "title": "Trump-era fight snags COVID deal",
+      "description": "Congress appears poised to punt a $10 billion deal on coronavirus relief until after a looming two-week break, as multiple stumbling blocks are complicating quick passage of the agreement.   A bipartisan group of senators announced this week that they had cli…",
+      "url": "https://thehill.com/news/3260056-trump-era-fight-snags-covid-deal/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/thunejohn_040522arl2_lead.jpg?w=1280",
+      "publishedAt": "2022-04-06T10:00:00Z",
+      "content": "Congress appears poised to punt a $10 billion deal on coronavirus relief until after a looming two-week break, as multiple stumbling blocks are complicating quick passage of the agreement.  \r\nA bipar… [+5716 chars]"
+    },
+    {
+      "source": {
+        "id": "aftenposten",
+        "name": "Aftenposten"
+      },
+      "author": "NTB-AP-AFP",
+      "title": "Oberstløytnant som vitnet mot Trump, går av",
+      "description": "Oberstløytnant Alexander Vindman, som vitnet mot president Donald Trump i riksrettssaken, orker ikke mer mobbing og trekker seg fra hæren.",
+      "url": "https://www.aftenposten.no/verden/i/y3QoOK/Oberstloytnant-som-vitnet-mot-Trump_-gar-av",
+      "urlToImage": "https://premium.vgc.no/ap/images/bd89d0be-e705-4c34-9d52-1a56b5059cd6?fit=crop&q=80&w=1440",
+      "publishedAt": "2020-07-09T05:07:25.190605Z",
+      "content": "smp-stories-top-widget\r\nVindman fikk sparken fra sin stilling i det nasjonale sikkerhetsrådet i Det hvite hus i februar, to dager etter at president Donald Trump ble frikjent.\r\nVindman lå an til forf… [+1055 chars]"
+    },
+    {
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "author": "David Gilbert",
+      "title": "Far-Right Social Network Gab Has a Verified Account Waiting For Trump With 27,000 Followers",
+      "description": "Gab users have been instructed to tweet at and write to the president urging him to join the network, which is filled with conspiracy theories, racism, and antisemitism.",
+      "url": "https://www.vice.com/en_us/article/z3exw4/far-right-social-network-gab-has-a-verified-account-waiting-for-trump-with-27000-followers",
+      "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecfac1d185c22009661743b/lede/1590670574578-AP_20143569698255.jpeg?crop=1xw:0.8427xh;0xw,0.1573xh&resize=1200:*",
+      "publishedAt": "2020-05-28T13:56:57Z",
+      "content": "Want the best of VICE News straight to your inbox? Sign up here.\r\n As President Donald Trump fumes at Twitters decision to fact-check two of his tweets this week, a ready-made replacement social netw… [+3512 chars]"
+    },
+    {
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "author": "Carter Sherman",
+      "title": "Trump's FDA Won't Let Women Get Abortion Pills Remotely In a Pandemic. So The ACLU Is Suing.",
+      "description": "Pregnant people have make an in-person visit to pick up the pill — even if they've already seen a provider about getting an abortion.",
+      "url": "https://www.vice.com/en_us/article/935yq7/trumps-fda-wont-let-women-get-abortion-pills-remotely-in-a-pandemic-so-the-aclu-is-suing",
+      "urlToImage": "https://video-images.vice.com/test-uploads/articles/5eceae1504ee25009b133490/lede/1590603286527-AbortionPills.jpeg?crop=1xw:0.8425xh;0xw,0.1425xh&resize=1200:*",
+      "publishedAt": "2020-05-27T18:43:49Z",
+      "content": "As the coronavirus pandemic ground almost every U.S. industry to a standstill, the Trump administration urged healthcare professionals to use telemedicine to see patients remotely and stem the spread… [+4029 chars]"
+    },
+    {
+      "source": {
+        "id": "spiegel-online",
+        "name": "Spiegel Online"
+      },
+      "author": "Spiegel Online",
+      "title": "Rekonstruktion der Tötung Soleimanis: Die letzten Minuten des Schattenkriegers",
+      "description": "Als Irans General Soleimani am 3. Januar in Bagdad landet, warten auf dem Rollfeld zwei Autos, ein Toyota und ein Hyundai. Da hat Donald Trump den Befehl schon erteilt.",
+      "url": "https://www.spiegel.de/plus/drohnenangriff-auf-qasem-soleimani-auf-dem-rollfeld-warteten-bereits-zwei-autos-a-393afdbc-f714-4ae6-bb45-61bb855f76d4",
+      "urlToImage": "https://www.spiegel.de/plus/images/5b5a466c-a775-49fb-afd8-85ec25ac3810_w1200_r1_fpx46_fpy27_wm.jpg",
+      "publishedAt": "2020-01-07T13:00:57Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": "Omri Nahmias",
+      "title": "President Donald Trump: Israel keeps having elections, nobody is elected",
+      "description": "Trump joked that his rating in Israel is 98%, and \"if anything happens here, I will take a trip over to Israel to run for prime minister there.”",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/President-Donald-Trump-Israel-keeps-having-elections-nobody-is-elected-607687",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/443370",
+      "publishedAt": "2019-11-13T02:06:00Z",
+      "content": "WASHINGTON - US President Donald Trump on Tuesday, mocked the political stalemate in Israel, in which Israelis \"keep having elections [but] nobody is elected.” \r\nA video circulating in social media, … [+1773 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Rachel Kraus",
+      "title": "Trump and Biden court older women demographic with Facebook ads",
+      "description": "Combined, they have spent millions on targeted Facebook ads.",
+      "url": "https://mashable.com/article/biden-trump-facebook-ads-targeting-women/",
+      "urlToImage": "https://mondrian.mashable.com/2019%252F05%252F28%252Fd2%252Fb4bf8a8b0277463fa17a55c2e0828213.6dd82.png%252F1200x630.png?signature=Xs-B53T_FOeCR6RWJWvAZdt7sfI=",
+      "publishedAt": "2019-05-28T21:52:08Z",
+      "content": "Who do the ladies love the most? Trump and Biden are hoping it's them.\r\nDonald Trump's re-election campaign has been pouring money into Facebook ads, particularly those targeting older women, accordi… [+3467 chars]"
+    }
+  ]
+}

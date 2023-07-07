@@ -1,0 +1,15 @@
+.close-icon {
+  cursor: pointer;
+  /* padding: 1px; */
+}
+.div {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.close-icon:hover {
+  transition: transform 0.5s ease-in-out;
+  transform: rotate(0.5turn);
+}
